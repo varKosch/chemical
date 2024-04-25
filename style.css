@@ -410,7 +410,7 @@ h2{
         flex-wrap: wrap;
     }
     .prev6 img{
-        margin: 20px
+        margin: 20px;
     }
     .prev6 p{
         margin: 40px;
@@ -579,7 +579,7 @@ footer .container{
     margin-top: 60px;
 }
 @media (max-width:800px){
-    .fifth_list img{
+    .im5{
         width: 100%;
     }
 }
