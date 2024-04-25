@@ -500,6 +500,8 @@ footer .container{
     }
 
 }
+/*4 СТРАНИЦА*/
+
 .seventh_list h2{
     padding-left: 30px;
     text-align: center;
@@ -569,6 +571,44 @@ footer .container{
         width: 350px;
     }
     .prev3 p{
+        margin: 30px;
+    }
+}
+/*5 СТРАНИЦА*/
+.fifth_list img{
+    margin-top: 60px;
+}
+@media (max-width:800px){
+    .fifth_list img{
+        width: 100%;
+    }
+}
+
+.prev14{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 30px;
+}
+@media (max-width:800px){
+    .prev14{
+        width: 100%;
+        flex-wrap: wrap;
+    }
+}
+.prev14 p {
+    background:rgb(189, 255, 66);
+    width: 250px;
+    height: 250px;
+    padding: 20px;
+    border-radius: 10px;
+    color: black;
+}
+.prev7 p{
+    color: black;
+}
+@media (max-width:800px){
+    .prev7 p{
         margin: 30px;
     }
 }
