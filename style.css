@@ -584,19 +584,19 @@ footer .container{
     }
 }
 
-.prev14{
+.prev141{
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding-bottom: 30px;
 }
 @media (max-width:800px){
-    .prev14{
+    .prev141{
         width: 100%;
         flex-wrap: wrap;
     }
 }
-.prev14 p{
+.prev141 p {
     background:rgb(189, 255, 66);
     width: 250px;
     height: 250px;
